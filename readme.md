@@ -1,5 +1,5 @@
-# Préparation O'clock
+# Création de mon portfolio qui va communiquer avec mon serveur
 
-> Dans le cadre de ma peéparation avant d'intégrer l'école O'clock, j'ai cette page web afin de m'exercer.
+> En parallèle de ma formation à l'école O'clock, j'ai crée cette page web afin de m'exercer.
 
 > J'apporterai des modifications au fil du temps.
